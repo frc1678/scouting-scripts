@@ -8,4 +8,4 @@ sudo snap install --classic android-studio
 sudo snap install --classic slack 
 sudo snap install --classic pycharm-community
 # Save git password
-git config credential.helper store
+git config --global credential.helper store
